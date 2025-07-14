@@ -1,0 +1,10 @@
+mojies/
+├── app.py                 # Flask app & routes
+├── templates/             # Jinja2 templates (HTML)
+│   ├── base.html
+│   ├── index.html
+│   └── ...
+├── static/                # Static assets (CSS/images)
+├── requirements.txt       # Python packages
+├── README.md              # This file
+└── database_setup.sql     # All CREATE, INSERT, and JOINs
